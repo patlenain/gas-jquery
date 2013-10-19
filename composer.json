@@ -24,7 +24,7 @@
 			"Patlenain\\GasJQueryBundle" : ""
 		}
 	},
-	"target-dir" : "Patlenain\\GasJQueryBundle",
+	"target-dir" : "Patlenain/GasJQueryBundle",
 	"support" : {
 		"source" : "https://github.com/patlenain/gas-jquery.git"
 	}
