@@ -3,7 +3,7 @@ namespace Patlenain\GasJQueryBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class PatlenainJQueryUIBundle extends Bundle
+class PatlenainJQueryBundle extends Bundle
 {
 
 }
