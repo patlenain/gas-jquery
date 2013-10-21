@@ -11,7 +11,7 @@
 		"jquery",
 		"gas"
 	],
-	"homepage" : "https://github.com/patlenain/gas/",
+	"homepage" : "http://www.legurun.org/projects/gas",
 	"license" : [
 		"MIT",
 		"GPL-3.0+"
@@ -28,6 +28,6 @@
 	"target-dir" : "Patlenain/GasJQueryBundle",
 	"support" : {
 		"source" : "https://github.com/patlenain/gas-jquery.git",
-		"issues" : "https://github.com/patlenain/gas/"
+		"issues" : "http://www.legurun.org/projects/gas"
 	}
 }
