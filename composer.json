@@ -11,14 +11,13 @@
 		"jquery",
 		"gas"
 	],
-	"homepage" : "http://www.legurun.org/projects/gas",
+	"homepage" : "https://github.com/patlenain/gas",
 	"license" : [
 		"MIT",
 		"GPL-3.0+"
 	],
 	"require" : {
-		"php" : ">=5.4",
-		"symfony/framework-bundle" : ">=2.3"
+		"php" : ">=5.4"
 	},
 	"autoload" : {
 		"psr-0" : {
@@ -28,6 +27,6 @@
 	"target-dir" : "Patlenain/GasJQueryBundle",
 	"support" : {
 		"source" : "https://github.com/patlenain/gas-jquery.git",
-		"issues" : "http://www.legurun.org/projects/gas"
+		"issues" : "https://github.com/patlenain/gas/issues"
 	}
 }
